@@ -1,0 +1,15 @@
+{
+    "name": "settermjd/pinpayments",
+    "description": "A simple package to show how to interact with the Pin Payments API using PHP.",
+    "minimum-stability": "stable",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Matthew Setter",
+            "email": "matthew@maltblue.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~4.0"
+    }
+}
